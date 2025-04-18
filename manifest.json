@@ -1,0 +1,21 @@
+{
+    "name": "Fitstone",
+    "short_name": "FtS",
+    "description": "Una semplice app di schede fitness!",
+    "start_url": "https://damiano031212.github.io/prove/",
+    "display": "standalone",
+    "background_color": "#061414",
+    "theme_color": "#061414",
+    "icons": [
+      {
+        "src": "IMG_5694.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": "IMG_5694.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ]
+  }
