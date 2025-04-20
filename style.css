@@ -344,9 +344,9 @@ backdrop-filter: blur(15px); /* blur sullo sfondo */
 -webkit-backdrop-filter: blur(15px);
 }
 .backgroundcard_fatherx{
-
+  overflow: visible;
   width: 393px;
-  height: 800px;  
+  height: 773px;  
   margin: 0 auto;
   backdrop-filter: blur(15px); /* blur sullo sfondo */
   -webkit-backdrop-filter: blur(15px);
